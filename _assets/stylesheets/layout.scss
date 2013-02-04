@@ -1,0 +1,11 @@
+#header {
+  padding: 1em 2em;
+  text-align: center;
+  h1 {
+    margin: 0;
+    line-height: 1em;
+  }
+  h1:before {
+    letter-spacing: .4em;
+  }
+}

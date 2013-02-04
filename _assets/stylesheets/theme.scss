@@ -1,0 +1,27 @@
+$color_tfp_blue: #759aad;
+$color_ultralight_blue: #d6e1db;
+$color_dark_blue: #354952;
+$color_deep_blue: #16191e;
+$color_green: #53693a;
+$color_red: #98413a;
+$color_gold: #d7b554;
+$color_brown: #8d8966;
+$color_dark: #2b2b2b;
+$color_light: #f6f1dd;
+$color_light_grey: #4c4c4c;
+$font_body: 'helvetica neue', sans-serif;
+$font_heading: 'p_sans_heading', 'helvetica neue', sans-serif;
+
+html {
+  color: $color_light;
+  background-color: $color_tfp_blue;
+  font-family: $font_body;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font_heading;
+  font-weight: normal;
+  text-transform: uppercase;
+  margin-top: 0;
+}
+

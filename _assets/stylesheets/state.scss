@@ -1,0 +1,7 @@
+.is_done {
+  &.build { background-color: $color_tfp_blue; }
+  &.commit { background-color: $color_brown; }
+  &.share { background-color: $color_dark_blue; }
+  &.write { background-color: $color_red; }
+  &.reflect { background-color: $color_red; }
+}
